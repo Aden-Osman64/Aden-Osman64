@@ -3,7 +3,7 @@
 💻 Software Developer focused on building practical, reliable, and scalable solutions  
 🐍 I excel in Python and enjoy writing clean, efficient, and maintainable code  
 📱 Passionate about cross-platform development and backend engineering  
-🌐 Portfolio: [adenos.dev](www.aden-osman.com)  
+🌐 Portfolio: [adenos.dev](https://www.aden-osman.com)  
 📍 Based in Bristol, UK
 
 ---
@@ -43,4 +43,4 @@
 
 [📧 Email](mailto:aden-osman64@hotmail.com)  
 [🔗 LinkedIn](https://www.linkedin.com/in/aden-osman-984115280/)  
-🌐 [Portfolio Website](www.aden-osman.com)
+🌐 [Portfolio Website](https://www.aden-osman.com)
