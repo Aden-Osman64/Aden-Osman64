@@ -1,10 +1,21 @@
-# Hi there, I'm Aden Osman 👋
+<div align="center">
+  <img src="https://t.bkit.co/w_665ccbf729bf2.gif" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF1B&background=0F25FF00&width=600&lines=Hi+there%2C+I'm+Aden+Osman+%F0%9F%91%8B;Software+Developer+%7C+Python+Enthusiast;Clean%2C+Reliable+%26+Scalable+Code+is+my+thing" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👨‍💻 About Me
 
 💻 Software Developer focused on building practical, reliable, and scalable solutions  
-🐍 I excel in Python and enjoy writing clean, efficient, and maintainable code  
-📱 Passionate about cross-platform development and backend engineering  
+🐍 I excel in **Python** and enjoy writing clean, efficient, and maintainable code  
+📱 Passionate about **cross-platform development** and **backend engineering**  
 🌐 Portfolio: [adenos.dev](https://www.aden-osman.com)  
-📍 Based in Bristol, UK
+📍 Based in Bristol, UK  
 
 ---
 
@@ -38,6 +49,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdenOsman&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdenOsman&layout=compact&langs_count=6&theme=radical&hide_border=false" height="180" />
+</div>
 
 ---
 
