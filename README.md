@@ -53,15 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdenOsman&show_icons=true&count_private=true&theme=radical&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdenOsman&layout=compact&langs_count=6&theme=radical&hide_border=false" height="180" />
-</div>
-
----
-
 ## 📫 Reach Me
 
 [📧 Email](mailto:aden-osman64@hotmail.com)  
